@@ -14,6 +14,14 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atrathbone/TSCourse-Module2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atrathbone/TSCourse-Module2/issues"
+  },
+  "homepage": "https://github.com/atrathbone/TSCourse-Module2#readme"
 }
