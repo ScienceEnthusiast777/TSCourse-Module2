@@ -14,3 +14,7 @@ if (button) {
   });
 }
 
+//default values 
+const add = (a:number, b:number = 1) => {return a+b};  
+
+let funnyAnswer = add(3) // is allowed because b has a default value of 1
